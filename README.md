@@ -43,7 +43,6 @@ Add the publish and delete buttons to the selected news.
 
 ```
 npm install prisma --save-dev
-
 ```
 6. All done? Time to run:
 
