@@ -29,7 +29,3 @@ To be able to use features other than Read, you must create an authenticated acc
 Implement a search bar, to search for news that contain the data entered.
 
 Add the publish and delete buttons to the selected news.
-
-## Click 👇🏼 to see in action
-
-[Principal News]()
